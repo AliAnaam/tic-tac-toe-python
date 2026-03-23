@@ -1,0 +1,31 @@
+# Home Bites
+
+## Team Details
+
+| Name | Student ID | Role |
+|------|-----------|------|
+| ALI SALIH ALI ISHWAYIL | 220513018 | Leader |
+| Ali Fuad Ali Qaid Anaam | 230513016 | Member |
+| OMAR MOHAMED MAHDI | 230513054 | Member |
+| Ismaeel Moussa | 220513736 | Member |
+| YOUSEF ALREYASHI | 220513383 | Member |
+
+---
+
+## Project Introduction
+
+Home Bites is a digital catalog platform designed to support home-based family businesses by allowing them to showcase their homemade food online.
+
+The system enables customers to:
+- Browse available dishes  
+- View prices and descriptions  
+- Contact the family directly via WhatsApp to place orders  
+
+The platform focuses on food discovery and communication, while the transaction process is handled externally through WhatsApp.
+
+---
+
+## Architecture
+
+You can view the system architecture here:  
+[ARCHITECTURE.md](./ARCHITECTURE.md)
